@@ -9,7 +9,7 @@ This project creates the effect of flickering, artefacts and random text on the 
 
 - **Flicker Effect**: Random coloured rectangles appear on the screen.
 - **Artefacts**: Additional visual artefacts are created around the flicker.
-- **Random Text**: Milk text appears periodically on the screen with different sizes and colours.
+- **Random Text**: Text appears periodically on the screen with different sizes and colours.
 - **Screen Rotation**: The screen rotates 90 degrees every 5-7 seconds.
 - **Scaling support**: The programme works correctly on screens with scaling (e.g. 125%, 150%).
 
